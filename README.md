@@ -1,4 +1,4 @@
-### Hi, I'm yjink12👋
+### Hello world, I'm Yu-Jin Kim. 👋
 
 <!--
 **yjink12/yjink12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
