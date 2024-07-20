@@ -1,5 +1,15 @@
 ### Hello world, I'm Yu-Jin Kim. 👋
-
+Web Developer
+(2021.12 ~ )
+- **Frontend**
+    
+    React / Next / Vue
+    
+- **Backend**
+    
+    Java / Spring Boot
+    
+    Node
 <!--
 **yjink12/yjink12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
