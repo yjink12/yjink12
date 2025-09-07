@@ -4,7 +4,12 @@
 
 ## Web Developer
 <span style="color: gray">`2021.12 ~ `</span>
+### Frontend
+<span style="color: gray">`2025.06 ~ `</span>
 
+<br />
+
+## Skills
 ### Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
